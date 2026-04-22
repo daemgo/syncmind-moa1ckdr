@@ -1,0 +1,154 @@
+{
+  "companyName": "楔子科技（杭州）有限公司",
+  "shortName": "楔子科技",
+  "summary": "楔子科技是一家2022年成立于杭州的微型软件科技企业，聚焦AI应用开发、软件外包及信息技术咨询，处于初创探索阶段。",
+  "industry": "软件和信息技术服务业",
+  "subIndustry": "人工智能应用软件开发/软件外包",
+  "scale": "微型企业（5人参保）",
+  "mainBusiness": "AI应用软件及基础软件开发、软件外包服务、信息技术咨询、网络安全软件开发",
+  "products": [
+    { "name": "定制化AI应用解决方案", "description": "基于客户需求的人工智能应用软件定制开发，涵盖NLP、智能对话等场景" },
+    { "name": "软件外包与系统集成服务", "description": "为企业提供全生命周期的软件定制开发、系统集成及运维服务" }
+  ],
+  "targetCustomers": [
+    "中小企业数字化升级需求方",
+    "需要AI技术赋能的传统行业客户"
+  ],
+  "businessModel": "项目制软件外包+定制开发",
+  "rating": "C",
+  "tags": ["AI应用开发", "软件外包", "小微企业", "初创企业", "杭州", "人工智能"],
+  "website": "https://www.xiezi.tech",
+  "slogan": null,
+  "isListed": false,
+  "stockCode": null,
+  "revenueScale": "百万级以下",
+  "registration": {
+    "registeredName": "楔子科技（杭州）有限公司",
+    "registeredCapital": "100万元人民币",
+    "paidCapital": "10万元人民币",
+    "establishedDate": "2022-07-22",
+    "legalRepresentative": "董瑞阳",
+    "businessStatus": "开业",
+    "shareholders": [
+      { "name": "董瑞阳", "percentage": "79%" },
+      { "name": "万先甲", "percentage": "10%" },
+      { "name": "代志远", "percentage": "10%" },
+      { "name": "李兰", "percentage": "1%" }
+    ],
+    "branchCount": 0,
+    "interpretation": "实缴仅10%表明公司资金规模有限，处于轻资产初创阶段；董瑞阳绝对控股（79%），属典型创始人主导型架构，决策集中高效但缺乏机构投资者背书；曾投资长沙子公司但已注销，暗示跨区域扩张尝试未达预期后选择收缩聚焦本部；无分支机构说明仍以杭州单点经营为主，尚未进入规模扩张期。",
+    "organizationType": "创业型（创始人控股）",
+    "keyFindings": [
+      "实缴资本仅10万（占认缴10%），资金实力薄弱，扩张能力受限",
+      "董瑞阳79%绝对控股，属创始人主导型决策架构，灵活但缺乏外部资本支持",
+      "长沙子公司已注销，跨区扩张尝试收缩，目前聚焦杭州本地经营"
+    ]
+  },
+  "organization": {
+    "type": "创业型（创始人主导）",
+    "decisionChain": "创始人/执行董事兼总经理董瑞阳直接决策，无董事会层级，采购/合作事项由创始人拍板，决策链路短平快但依赖个人判断",
+    "keyPersons": [
+      { "name": "董瑞阳", "title": "法定代表人、执行董事兼总经理（79%控股股东）" },
+      { "name": "李兰", "title": "监事（1%股东）" },
+      { "name": "万先甲", "title": "股东（10%，唯一实缴股东）" }
+    ],
+    "salesStrategy": "创始人直接拓客，通过技术圈子/人脉获取早期项目，重点打杭州本地中小企业的AI应用定制和软件外包需求，以灵活交付和性价比切入"
+  },
+  "timing": {
+    "phase": "初创验证期",
+    "analysisBasis": [
+      "成立仅2年半（2022年7月），参保人数5人，尚未形成规模化团队",
+      "实缴资本仅10万且无外部融资记录，资金处于自给阶段",
+      "无知识产权/软著登记，产品化程度低，仍以项目制外包为主"
+    ],
+    "entryStrategy": "以轻量数字化工具（项目管理、客户管理、合同管理）切入，降低早期团队管理成本；若公司获得融资或业务起量后，再推进系统升级",
+    "urgency": "低（当前阶段以生存和获客为核心，数字化投入优先级不高，6-12个月内可视业务增长情况推进）"
+  },
+  "hiring": {
+    "keySignals": [
+      "参保人数仅5人，团队规模极小，尚处于早期验证阶段",
+      "无公开招聘信息露出，可能通过熟人/外包渠道获客和交付",
+      "无知识产权登记，技术积累和产品化程度较低"
+    ]
+  },
+  "competition": {
+    "industryRank": null,
+    "marketShare": null,
+    "mainCompetitors": [
+      "哲程软件（杭州）— 本地软件外包与定制开发服务商，10年以上经验",
+      "橙果科技（杭州）— 聚焦中小微企业的轻量级AI应用开发",
+      "咏创科技集团（杭州）— AI+小程序+物联网一体化解决方案"
+    ],
+    "knownClients": []
+  },
+  "riskAndPolicy": {
+    "legal": {
+      "lawsuitCount": 0,
+      "executedPerson": false,
+      "dishonestPerson": false,
+      "businessAnomalies": [],
+      "equityFreeze": false
+    },
+    "policy": {
+      "isSpecializedSME": false,
+      "smeLevel": "",
+      "isHighTech": false,
+      "digitalTransformation": false,
+      "esgGreen": false
+    }
+  },
+  "painPoints": [
+    {
+      "area": "项目管理",
+      "description": "多项目并行下进度跟踪和资源分配依赖口头/Excel，缺乏透明可视的项目管理工具",
+      "severity": "高"
+    },
+    {
+      "area": "客户管理",
+      "description": "客户信息和商机散落在创始人及个别成员手中，缺乏统一的客户跟进和商机管理流程",
+      "severity": "高"
+    },
+    {
+      "area": "交付管理",
+      "description": "外包项目需求变更频繁、验收标准不清晰，容易导致交付延期和回款纠纷",
+      "severity": "中"
+    },
+    {
+      "area": "知识管理",
+      "description": "代码资产和项目经验沉淀在个人电脑上，缺乏团队知识库，新人融入和重复开发成本高",
+      "severity": "中"
+    },
+    {
+      "area": "回款管理",
+      "description": "项目制业务账期管理依赖人工跟踪，缺乏应收预警机制，坏账风险较高",
+      "severity": "中"
+    }
+  ],
+  "opportunities": [
+    {
+      "area": "项目管理平台",
+      "description": "引入轻量级项目管理工具（如飞书/钉钉项目模块），实现任务分配、进度跟踪、工时统计的线上化",
+      "likelihood": "高"
+    },
+    {
+      "area": "CRM客户管理",
+      "description": "部署低成本CRM系统，统一管理客户信息、商机漏斗和跟进记录，提升销售转化率",
+      "likelihood": "中"
+    },
+    {
+      "area": "代码与文档协作平台",
+      "description": "建立GitLab/GitHub企业版+在线文档协作环境，实现代码资产管理、文档沉淀和团队协作规范化",
+      "likelihood": "中"
+    }
+  ],
+  "analysisPath": "B+",
+  "confidence": 0.65,
+  "metadata": {
+    "createdAt": "2026-04-22",
+    "updatedAt": "2026-04-22",
+    "createdBy": "AI",
+    "version": "1.0",
+    "sources": ["WebSearch", "WebFetch", "天眼查", "企查查"],
+    "confidence": 0.65
+  }
+}
